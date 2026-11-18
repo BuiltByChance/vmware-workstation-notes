@@ -3,3 +3,4 @@
 ## 目录
 
 - [P1 · 前言：开发人员为什么值得学虚拟机](notes/01-why-virtual-machines.md)
+- [P2 · 虚拟机的介绍、认识、演示和用途](notes/02-virtual-machine-basics.md)
